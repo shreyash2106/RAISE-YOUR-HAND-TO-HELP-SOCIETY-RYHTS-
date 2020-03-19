@@ -1,0 +1,5 @@
+# RAISE-YOUR-HAND-TO-HELP-SOCIETY-RYHTS-
+Developed a public donation system using C++ that enables users to donate money or choose a donation scheme for three different areas (food, clothing, and housing).
+The program, ‘Raise Your Hand to Help Society’ System (RYHTS) has been created from an administrator point of view which involves making use of concepts of object-oriented programming for booking, addition and manipulation of flight, passenger and transaction data securely. The program is an example of Object-Oriented Programming (OOP) as it implements classes, objects and data file handling. 
+
+In a society where there is a mix of well-off people as well as people in a dire state of economic and social conditions, it is our duty to help those in need. Thus, the RYHTS program was born. The program’s aim is to provide a system and a platform for the public to provide aid and help to the poor and needy people in our society. It is a no-profit initiative with all the funds going for the benefit of the poor. One can donate food, clothe or even land or money for housing. 
