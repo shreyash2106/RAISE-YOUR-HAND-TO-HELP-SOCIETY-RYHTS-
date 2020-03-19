@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1548742062 source:g:\computer science project\project12\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<process.h>
+	<cstring>
+	<fstream>
+
+1543385402 source:f:\computer science project\project12\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<process.h>
+	<cstring>
+	<fstream>
+
